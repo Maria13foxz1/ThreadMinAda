@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__threadminada.o
+[PROJECT FILES]
+D:\Projects\ThreadMinAda\threadminada.gpr
+20240305075224 89cc6236cb69e6c65477a7247dc776b1
+[BOUND OBJECT FILES]
+D:\Projects\ThreadMinAda\obj\threadminada.o
+[GENERATED SOURCE FILES]
+b__threadminada.ads
+b__threadminada.adb
+b__threadminada.ali
+[RESULTING OPTIONS]
+-LD:\Projects\ThreadMinAda\obj\
+-LD:\Projects\ThreadMinAda\obj\
+-LD:/program/adacore/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+D:/program/adacore/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+D:/program/adacore/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
